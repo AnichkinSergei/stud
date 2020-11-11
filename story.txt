@@ -2,4 +2,8 @@ first step
 second step
 third step
 foure step
+<<<<<<< HEAD
 five step six step
+=======
+>>>>>>> 20de18efdc935102fd7898ff8cf346f6814b7190
+seven step
